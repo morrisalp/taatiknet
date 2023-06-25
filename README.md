@@ -1,5 +1,5 @@
 # TaatikNet: Converting between Hebrew text and Latin transliteration
-## A simple demonstration of character-level seq2seq training
+## A simple demonstration of character-level seq2seq learning
 
 
 Modern transformer networks are great for complex text-to-text tasks like machine translation, text summarization, paraphrasing and more. This repo shows a simple example of how to train a model given a dataset of paired examples, using a particularly interesting character-level task: **converting between Hebrew text and Latin transliteration**.

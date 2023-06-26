@@ -42,7 +42,8 @@ To run inference on multiple words, you are recommended to split the text by whi
 
 Check out some examples of inputs and outputs to the resulting model **TaatikNet**:
 
-![](assets/demo.png)
+![](assets/demo1.png)
+![](assets/demo2.png)
 
 (This uses beam search with 5 beams; the first result is the top beam.)
 
